@@ -1,11 +1,11 @@
 {
     "courses": [{
-        "id": 1,
+        "id": "d9d4ccb1-fcce-4b70-b05f-2c2c63859304",
         "title": "Angular",
         "lesson": [{
-            "id": 1,
+            "id": "b3d4ccb1-fcce-4b70-b05f-2c2c63859304",
             "title": "Introduction",
-            "course_id": 1,
+            "course_id": "d9d4ccb1-fcce-4b70-b05f-2c2c63859304",
             "content": "Introduction to angular"
         }]
     }]
