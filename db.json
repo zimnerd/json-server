@@ -1,3 +1,12 @@
 {
-courses:[]
+    "courses": [{
+        "id": 1,
+        "title": "Angular",
+        "lesson": [{
+            "id": 1,
+            "title": "Introduction",
+            "course_id": 1,
+            "content": "Introduction to angular"
+        }]
+    }]
 }
