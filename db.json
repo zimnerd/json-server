@@ -2,6 +2,8 @@
     "courses": [{
         "id": "d9d4ccb1-fcce-4b70-b05f-2c2c63859304",
         "title": "Angular",
+        "name":"Angular",
+        "description":"Get started with angular",
         "lesson": [{
             "id": "b3d4ccb1-fcce-4b70-b05f-2c2c63859304",
             "title": "Introduction",
